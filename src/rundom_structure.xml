@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library>
+    <book id="1">
+        <title>Foundation</title>
+        <author>Joshua Bloch</author>
+        <year>1986</year>
+        <genre>Fiction</genre>
+        <price currency="EUR">93.25</price>
+        <reviews>
+            <review>
+                <user>charlie</user>
+                <rating>2</rating>
+                <comment>Excellent content.</comment>
+            </review>
+            <review>
+                <user>dave</user>
+                <rating>2</rating>
+                <comment>Excellent content.</comment>
+            </review>
+            <review>
+                <user>charlie</user>
+                <rating>4</rating>
+                <comment>Loved the examples.</comment>
+            </review>
+        </reviews>
+        <language>Japanese</language>
+    </book>
+
+    <book id="2">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>2019</year>
+        <genre>Fiction</genre>
+        <price currency="JPY">23.62</price>
+        <isbn>978-7-475159221</isbn>
+        <format>Audiobook</format>
+        <publisher>
+            <name>SciTech Publishers</name>
+            <address>
+                <city>Berlin</city>
+                <country>Russia</country>
+            </address>
+        </publisher>
+        <translator>Jane Austen</translator>
+        <awards>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+
+    <book id="3">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>1984</year>
+        <genre>Non-Fiction</genre>
+        <price currency="GBP">87.71</price>
+        <isbn>978-5-157199117</isbn>
+        <reviews>
+            <review>
+                <user>dave</user>
+                <rating>2</rating>
+                <comment>Very informative.</comment>
+            </review>
+            <review>
+                <user>charlie</user>
+                <rating>4</rating>
+                <comment>Very informative.</comment>
+            </review>
+        </reviews>
+        <language>English</language>
+        <awards>
+            <award>Best Seller</award>
+            <award>Best Seller</award>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+</library>
